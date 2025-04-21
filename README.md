@@ -18,13 +18,13 @@ The following diagram illustrates the relationships between the main entities:
 
 ## Files Included
 
-- ERD_Diagram.png — Visual representation of the database schema (PK, FK, relationships)
-- Full_Tsql_Programming_Course_View_Drop.sql — T-SQL script that defines the view and query for full course details
-- SQL_Query_Programming_Courses.sql — Query for displaying all course data
-- SQL_Query_Programming_Courses_Column.sql — Column-based query for course details
-- README_EN_UPDATED.md — This file (English)
-- README_FA_UPDATED.md — Project description in Persian
-- README_DE.md — Project description in German
+- ERD_Diagram.png â€” Visual representation of the database schema (PK, FK, relationships)
+- Full_Tsql_Programming_Course_View_Drop.sql â€” T-SQL script that defines the view and query for full course details
+- SQL_Query_Programming_Courses.sql â€” Query for displaying all course data
+- SQL_Query_Programming_Courses_Column.sql â€” Column-based query for course details
+- README_EN_UPDATED.md â€” This file (English)
+- README_FA_UPDATED.md â€” Project description in Persian
+- README_DE.md â€” Project description in German
 
 ## Technologies
 
